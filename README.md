@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Srihit-489
+- 👋 Hi, I’m @Srihit-4897
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning programming in c++ and data structures
+- 🌱 I’m currently learning programming in competative programming 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... you can contact me through srirangasrihit_b190489cs@nitc.ac.in
 
